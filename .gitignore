@@ -1,0 +1,28 @@
+# Java build folders
+target/
+bin/
+
+# Maven files
+*.log
+
+# IDE configurations
+.idea/
+.vscode/
+
+# System files
+*.swp
+.DS_Store
+
+# Environment variables
+.env
+
+# TestNG generated reports
+test-output/
+
+# Configurations
+config.properties
+
+# Ignore workbench folder
+/workbench/
+*.properties
+*.env
